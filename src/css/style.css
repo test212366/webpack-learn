@@ -1,0 +1,21 @@
+@import "~normalize.css";
+
+.container {
+	margin: 0 auto;
+	max-width: 1000px;
+}
+
+.coutn {
+	font-size: 20px;
+}
+body {
+	background-image: url(/src/i1.jpg);
+}
+
+.baby {
+	text-align: center;
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+}
+/*# sourceMappingURL=style.css.map */
